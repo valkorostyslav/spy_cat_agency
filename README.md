@@ -24,7 +24,7 @@ The Spy Cat Management Application is a CRUD system designed for the Spy Cat Age
 
    ```bash
    git clone <https://github.com/valkorostyslav/spy_cat_agency>
-   cd spy-cat-management
+   cd spy_cat_agency
    
 2. **Install dependencies:**
    pip install -r requirements.txt
